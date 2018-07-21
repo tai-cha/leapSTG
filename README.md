@@ -6,10 +6,10 @@
 
 面白そう。
 
-## **TODO**
+## **TODO**
 - 敵の動きを作る
 - 敵の弾を作る（弾幕！！）
-- プレイヤーの当たり判定
+- プレイヤーの当たり判定
 - 敵の当たり判定
 - スコア機能
 
@@ -19,4 +19,4 @@
 ## 作者
 たいちん  
 github:[taichanNE30](https://github.com/taichanNE30/)  
-Twitter:[@taicha_mocha](http://twitter.com/taicha_mocha)
+Twitter:[@taicha_mocha](http://twitter.com/taicha_mocha)
